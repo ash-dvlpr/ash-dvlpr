@@ -7,4 +7,4 @@ I'm Aser Granado, but you can call me Ash. Also known as [@Xeros08](https://gith
 - Passionate about Game Development and VR/AR.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ash-dvlpr&show_icons=true&theme=transparent" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-dvlpr&layout=compact" />
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-dvlpr&layout=compact" /> -->
