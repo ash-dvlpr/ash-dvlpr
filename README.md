@@ -1,6 +1,6 @@
 ### Hi there ^-^
 
-I'm Aser Granado, but you can call me _Ash_. Also known as [@Xeros08](https://github.com/xeros08)
+I'm Aser Granado, but you can call me Ash. Also known as [@Xeros08](https://github.com/xeros08)
 
 - Game Translator ([RimWorld](https://github.com/Ludeon/RimWorld-Spanish) & [Will You Snail](https://store.steampowered.com/app/1115050/Will_You_Snail)) and ex-modder
 - Interested in low level programing, graphics and game engine development.
