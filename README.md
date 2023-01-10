@@ -1,6 +1,6 @@
 ### Hi there ^-^
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ash-dvlpr&show_icons=true&theme=transparent" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=ash-dvlpr&show_icons=true&theme=transparent" />
 
 I'm Aser Granado, but you can call me Ash. Also known as [@Xeros08](https://github.com/xeros08)
 
